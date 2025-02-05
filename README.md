@@ -51,4 +51,4 @@ The system is built using two main classes:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abhinay0712/bank-management-system.git
+   https://github.com/abhinay0712/abhinay0712-BANK-MANAGMENT-SYSTEM.git
